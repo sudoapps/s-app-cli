@@ -1,0 +1,19 @@
+{
+  "name": "@sudoapps/s-app-cli",
+  "version": "0.1.0",
+  "description": "Sudo Apps CLI",
+  "bin": {
+    "s-app": "bin/s-app"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "homepage": "https://github.com/sudoapps/s-app-cli",
+  "author": "Sudo Apps (https://www.sudoapps.com)",
+  "license": "MIT",
+  "dependencies": {
+    "configstore": "^5.0.0",
+    "minimist": "^1.2.0"
+  }
+}
