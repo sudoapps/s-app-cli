@@ -31,3 +31,7 @@ Generate an audit report by running the following in any of your project directo
 ```
 s-app generate-report
 ```
+
+<p align="center" style="margin-top: 40px">
+  <a href="https://sudoapps.com/audit-report?repo=sudoapps/s-app-cli"><img src="https://sudoapps.com/sudo-apps.png" width="50px" height="60px" alt="Sudo Apps Report" /></a>
+</p>
